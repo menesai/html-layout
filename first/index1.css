@@ -1,0 +1,23 @@
+nav{
+    background-color:darkgrey;
+    height: 150px;
+    
+}
+
+.column1{
+    background-color: white;
+    height: 100vh;
+    width: 70vw;
+    margin-left: 15vw;
+
+
+}
+body{
+    background-color: lightgray;
+}
+footer{
+    background-color: black;
+    height: 20vh;
+    margin-left: 15vw;
+    margin-right: 13vw;
+}

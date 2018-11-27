@@ -1,0 +1,66 @@
+cdbody{
+    margin: 0;
+    padding: 25px;
+    
+}
+
+.container1{
+    width: 100%;
+    border: 5px solid black;   
+    box-sizing: border-box;
+    padding: 10px;
+    height: 25vh;
+}
+.square{
+    height: 100px;
+    width: 70px;
+    background-color: blueviolet;
+    display: inline-block;
+}
+.rec{
+    height: 150px;
+    width: 250px;
+    background-color: green;
+    display: inline-block;
+    margin-left: 70px;
+
+}
+.circle{
+    border-radius:50%;
+    height: 150px;
+    width: 150px;
+    background-color: aquamarine;
+    display: inline-block;
+    margin-left: 200px;
+}
+
+.container2{
+    width: 100%;
+    border: 5px dotted black;   
+    box-sizing: border-box;
+    padding: 10px;
+    height: 27vh;
+    margin-top: 30px;
+}
+
+.rec2{
+    height: 160px;
+    width: 95vw;
+    background-color: burlywood;
+    
+}
+
+.lastBox{
+    width: 50%;
+    border: 1px solid black;
+    box-sizing: border-box;
+    height: 50vh;
+    margin-left: 400px;
+    margin-top: 30px;
+}
+
+p{
+    text-align: center;
+    font-size: 80px;
+    color: purple;
+}
