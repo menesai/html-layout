@@ -1,4 +1,4 @@
-cdbody{
+body{
     margin: 0;
     padding: 25px;
     
@@ -9,58 +9,63 @@ cdbody{
     border: 5px solid black;   
     box-sizing: border-box;
     padding: 10px;
-    height: 25vh;
+    height: 27vh;
 }
-.square{
-    height: 100px;
-    width: 70px;
+ .square{
+    height: 15vh;
+    width: 50px;
     background-color: blueviolet;
     display: inline-block;
-}
+    margin-top: 35px;    
+} 
 .rec{
     height: 150px;
-    width: 250px;
+    width: 300px;
     background-color: green;
     display: inline-block;
     margin-left: 70px;
-
-}
+} 
 .circle{
     border-radius:50%;
     height: 150px;
     width: 150px;
-    background-color: aquamarine;
+    background-color: lightblue;
     display: inline-block;
-    margin-left: 200px;
+    margin-left: 140px;
 }
 
 .container2{
     width: 100%;
-    border: 5px dotted black;   
+    border: 4px dotted black;   
     box-sizing: border-box;
     padding: 10px;
-    height: 27vh;
+    height: 35vh;
     margin-top: 30px;
 }
-
+ 
 .rec2{
     height: 160px;
-    width: 95vw;
+    width: 90%;
     background-color: burlywood;
-    
+    margin-top: 26px;
+     margin-left: 5vw; 
+     box-shadow: 5px 5px 5px black;
 }
-
+ 
 .lastBox{
     width: 50%;
     border: 1px solid black;
     box-sizing: border-box;
     height: 50vh;
-    margin-left: 400px;
+    margin-left: 25vw;
     margin-top: 30px;
-}
+    box-shadow: 5px 5px 5px black;
 
+}
+    
 p{
     text-align: center;
-    font-size: 80px;
+    font-size: 50px;
     color: purple;
-}
+    margin-top: 20vh;
+} 
